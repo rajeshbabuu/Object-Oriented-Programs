@@ -8,8 +8,8 @@ namespace ObjectOrientedPrograms
         {
             Console.WriteLine("Welcome to Object Oriented Program\n");
 
-            InventoryManager inventoryManager = new InventoryManager();
-            inventoryManager.CalcInventoryValue();
+            StockManager stockManager = new StockManager();
+            stockManager.CalcStockValue();
         }
     }
 }
