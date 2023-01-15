@@ -8,7 +8,7 @@ namespace ObjectOrientedPrograms.Model
 {
     public class StockModel
     {
-        public List<StockProp> Stocks { get; set; }
+        public List<StockProp> Stock { get; set; }
     }
 
     public class StockProp
